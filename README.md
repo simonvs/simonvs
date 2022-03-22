@@ -1,6 +1,5 @@
 👋 Hola! Mi nombre es Simón Vergara, soy de Chile y soy estudiante de 5to año de Ingeniería Civil en Informática en la Universidad Austral de Chile.
-Me gustan las bicicletas, los perros y aprender cosas nuevas.
-
+Me gustan las bicicletas, los perros y aprender cosas nuevas. Actualmente estoy en busca de mi práctica profesional.
 
 Contacto: simon.vergara01@alumnos.uach.cl
 
