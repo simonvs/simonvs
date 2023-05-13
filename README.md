@@ -3,7 +3,7 @@ Mi nombre es Simón Vergara, soy de Chile y soy estudiante de último año de In
 Me gustan las bicicletas, los perros y aprender cosas nuevas.
 
 # Habilidades
-Adaptabilidad, buena disposición y algo de experiencia en data science, bioinformática. También en lenguajes como: Python, C++, Java, MySQL.
+Adaptabilidad, buena disposición y algo de experiencia en data science y bioinformática. También en lenguajes como: Python, C++, Java, MySQL.
 
 # Contacto:
 simon.vergara01@alumnos.uach.cl
