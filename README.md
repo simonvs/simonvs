@@ -1,6 +1,6 @@
 # 👋 ¡Hola!
 
-Soy Simón Vergara, un estudiante chileno de último año de Ingeniería Civil en Informática en la Universidad Austral de Chile. Me apasiona el mundo de la tecnología y estoy constantemente buscando oportunidades para aprender y crecer.
+Soy Simón Vergara, ingeniero civil en informática de la Universidad Austral de Chile. Me apasiona el mundo de la tecnología y estoy constantemente buscando oportunidades para aprender y crecer.
 
 Además de mi interés por la informática, también tengo otros hobbies. Me gusta andar en bici y disfrutar de la naturaleza. Soy un amante de los perros y siempre estoy dispuesto a pasar tiempo con ellos.
 
