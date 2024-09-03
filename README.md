@@ -11,7 +11,7 @@ En términos de lenguajes de programación, tengo experiencia en Python, C++, Ja
 Estoy emocionado por seguir aprendiendo y enfrentando nuevos desafíos en el campo de la informática. Si tienes alguna pregunta o estás interesado en colaborar, no dudes en contactarme.
 
 # Contacto:
-simon.vergara01@alumnos.uach.cl
+simonvergaraswett@gmail.com
 
 <!---
 simonvs/simonvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
